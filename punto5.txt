@@ -1,0 +1,7 @@
+git stash => guarda temporalmente los cambios en memoria sin necesidad de un commit
+git add . => añade los cambios al staging del repositorio para el commit
+pdflatex => herramienta para convertir en PDF los recursos tipo latex
+kill -HUP 55455 => recarga el servicio por el puerto 55455
+service vsftpd restart => reinicia y enlaza el protocolo super seguro de comunicación
+nano => es un editor de texto para consola linux (similar a vim)
+yum install nginx => instala un servidor de código abierto (nginx) con el gestor de paquetes yum

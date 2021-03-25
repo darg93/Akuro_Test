@@ -1,0 +1,4 @@
+En el área del footer haría uso de la función inserImage(childIndex, image), la cual me solicita el índice de la imágen 
+y el archivo de la imágen a insertar según se especifica en la documentación de Google Apps Script:
+
+https://developers.google.com/apps-script/reference/document/footer-section#insertimagechildindex,-image_1

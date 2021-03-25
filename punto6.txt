@@ -1,0 +1,7 @@
+De acuerdo a la definición por lenguaje dada, las frases que sí se pueden contruir son:
+
+* hola amigos , alimento
+* hola soñadora vaca
+* hola cliente especial . . aguacate televisor
+* gracias de todo corazón . cliente especial , pescado sal televisor
+* gracias de todo corazón , vaca 
